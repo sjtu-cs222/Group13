@@ -10,8 +10,9 @@
 
 ## install
 
-1. put  `vgg19.npy` into folder `./vg199`, you can get it [here](https://pan.baidu.com/s/1Nr8YAFS10YbxW9-u-haWlg)
-2. get  MSCOCO train set, then put all the images into folder `./MSCOCO_train2k`, you can get it [here](https://pan.baidu.com/s/1aKosAB6L67RvfTbsHaSWVw)
+1. create folder `ckpt`,`MSCOCO_train2k`
+2. put  `vgg19.npy` into folder `./vg199`, you can get it [here](https://pan.baidu.com/s/1Nr8YAFS10YbxW9-u-haWlg)
+3. get  MSCOCO train set, then put all the images into folder `./MSCOCO_train2k`, you can get it [here](https://pan.baidu.com/s/1aKosAB6L67RvfTbsHaSWVw)
 
 ## run
 
